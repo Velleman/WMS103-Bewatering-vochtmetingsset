@@ -11,3 +11,5 @@ Op het OLED scherm wordt de vochtigheidswaarde weergegeven alsook de status van 
 Met een knop kan je de peristaltische pomp handmatig bedienen, indien het waterniveau voldoende is.
 
 De set bevat een template om een bloempothouder te maken uit de verpakkingsdoos aslook een aansluitschema voor het verbinden van alle elektronische componenten met de Arduino.
+
+Link naar de productpagina: https://www.velleman.eu/products/view/?id=470476
