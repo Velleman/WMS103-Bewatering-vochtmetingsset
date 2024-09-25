@@ -13,5 +13,6 @@ Met een knop kan je de peristaltische pomp handmatig bedienen, indien het watern
 De set bevat een template om een bloempothouder te maken uit de verpakkingsdoos aslook een aansluitschema voor het verbinden van alle elektronische componenten met de Arduino.
 
 De meegelverde arduino is voorgeprogrammeerd, de broncode kan hierboven gedownload worden.
+Het meegeleverde aansluitschema en template kan je hier ook downloaden.
 
 Link naar de productpagina: https://www.velleman.eu/products/view/?id=470476
