@@ -1,18 +1,16 @@
-# WMS103-Bewatering-vochtmetingsset
-Automatsiche bewatering -en vochtmetingsset voor planten:
+# WMS103- Auatomatice Watering and moisture measurment kit
+Automated Watering and Moisture Measurement Set for Plants:
 
-Deze set zorgt ervoor dat je plant de ideale vochtigheidsgraad aanhoudt door middel van een bodemvochtsensor die in de potgrond van je plant geprikt wordt.
+This set ensures that your plant maintains the ideal moisture level through a soil moisture sensor that is inserted into the potting soil of your plant.
 
-Indien de vochtigheid te laag is zal deze een (peristaltische) pomp bedienen die op zijn beurt water oppompt om een plant te bewateren.
-Door de waterniveausensor die in de watervoorraad container geplaatst wordt, zal de pomp nooit werken indien het waterniveau te laag is. Indien deze laag is zal er ook een alarm afgaan door middel van een buzzer.
+If the moisture level is too low, it will activate a (peristaltic) pump that, in turn, pumps water to water the plant. Thanks to the water level sensor placed in the water supply container, the pump will never operate if the water level is too low. If it is low, an alarm will sound via a buzzer.
 
-Op het OLED scherm wordt de vochtigheidswaarde weergegeven alsook de status van de waterniveausensor. 
+The OLED screen displays the moisture value as well as the status of the water level sensor.
 
-Met een knop kan je de peristaltische pomp handmatig bedienen, indien het waterniveau voldoende is.
+With a button, you can manually operate the peristaltic pump if the water level is sufficient.
 
-De set bevat een template om een bloempothouder te maken uit de verpakkingsdoos aslook een aansluitschema voor het verbinden van alle elektronische componenten met de Arduino.
+The set includes a template to create a plant pot holder from the packaging box, as well as a connection diagram for connecting all the electronic components to the Arduino.
 
-De meegelverde arduino is voorgeprogrammeerd, de broncode kan hierboven gedownload worden.
-Het meegeleverde aansluitschema en template kan je hier ook downloaden.
+The included Arduino is pre-programmed, and the source code can be downloaded above. You can also download the included connection diagram and template here.
 
-Link naar de productpagina: https://www.velleman.eu/products/view/?id=470476
+Link to product page: https://www.velleman.eu/products/view/?id=470476
